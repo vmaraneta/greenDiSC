@@ -24,6 +24,30 @@ If you’re unsure about which one to do, our general rule of thumb is this: if 
 
 We understand that many institutions can have gray areas so if you are still unsure about this, you can email us at [info@greendisc.org](mailto:info@greendisc.org) and we can help.
 
+# NEW! Joint application for related research groups
+
+In some cases, multiple groups within the same Department or Unit operate similarly, conduct similar research using some common data, pipelines and/or infrastructure. To streamline the process and reduce redundancies, there is now the option to submit a joint application. A few things to know about this:
+- It is only applicable to a small number of research groups with closely related activities and within the same institution (we expect ~5 groups to be the norm for these). We recommend that you check with us early on to confirm that your circumstances are suitable for a joint application.
+- If the application is successful, then each group will be certified individually (i.e. receive their own certificate).
+- The joint application should be put together by a working group of at least one member from each team involved.
+- In your application, you will be expected to demonstrate how you managed to still fully engage researchers on the ground in spite of the joint application format.
+
+## Before starting
+
+If you consider pursuing a joint application, you should confirm eligibility with us before starting work on your application. To do this, please email info@greendisc.org with the following details:
+1. List of interested research groups (with the names of the groups’ representatives), and the number of people in each one.
+2. A short paragraph explaining why a joint application is a better fit for your situation (e.g. describing how the activities of the groups are aligned, close collaborations between the teams, etc.).
+3. Confirmation that each research group listed above has enrolled separately through this form.
+After the Green DiSC team receives the information above, we will confirm whether you are eligible for a joint application or if your groups are better suited to applying for Green DiSC separately instead.
+
+## Things to keep in mind when applying for certification
+
+For a joint application, you are still using the same application template (see [this folder](https://drive.google.com/drive/folders/108Muq_en1WkUAGS2Sobj5xIs0FOdUQkF)), but there is a distinct space dedicated to joint applications.
+
+When gathering evidence and relevant information across the criteria, here are some tips:
+1. Demonstrate in detail how engagement was conducted with every group (e.g. survey forms, group meetings, 1:1 discussions) to show that group members on the ground (not only the group representatives) were involved in the application process.
+2. For each criteria, make it clear to which groups each answer applies to. It’s expected to have differences between the team, it’s just important to make it clear. Identify if resources included in the evidence are shared across the groups or if they are unique to only one/some of the groups (if any). This is to ensure a comprehensive review/inventory was indeed conducted.
+
 # Managing the Workspace (Google Drive) 
 
 Regarding your group’s folder on Google Drive: 
